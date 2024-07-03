@@ -12,7 +12,9 @@
 ## Clone the project
 
 bash
-  git clone 
+```
+git clone https://github.com/TheMorpheus7/Apna-Doctor.git
+```
 
 
 Go to the project directory
