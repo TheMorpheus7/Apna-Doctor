@@ -9,7 +9,7 @@
 
 *Database:* Mongo DB
 
-Clone the project
+## Clone the project
 
 bash
   git clone 
@@ -21,21 +21,25 @@ bash
   cd Yaush-Doctor-Appointment
 
 
-Install dependencies
+## Install dependencies
 
 bash
+```
   npm install
+```
 
-
-```bash
+bash
+```
   cd frontend/
   npm install
 ```
 
-Start the server
+## Start the server
 
 bash
+```
   npm run dev
+```
 
 Start the Client
 
