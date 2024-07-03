@@ -20,8 +20,9 @@ git clone https://github.com/TheMorpheus7/Apna-Doctor.git
 Go to the project directory
 
 bash
+```
   cd Yaush-Doctor-Appointment
-
+```
 
 ## Install dependencies
 
