@@ -40,6 +40,7 @@ bash
 Start the Client
 
 bash
+```
   //open now terminal
   cd frontend
   npm run dev
